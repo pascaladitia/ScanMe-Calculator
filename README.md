@@ -1,5 +1,5 @@
 # ScanMe-Calculator
-calculator with scan image
+calculator with scan image Android Kotlin
 
 library :
 - Koin
